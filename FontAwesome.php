@@ -5,9 +5,9 @@
  * @link https://rmrevin.ru
  */
 
-namespace rmrevin\yii\fontawesome;
+namespace whitemiku\fontawesome;
 
-use rmrevin\yii\fontawesome\component;
+use whitemiku\fontawesome\component;
 
 /**
  * Class FA

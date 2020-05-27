@@ -1,6 +1,6 @@
 {
-  "name": "rmrevin/yii2-fontawesome",
-  "description": "Asset Bundle for Yii2 with Font Awesome",
+  "name": "white-miku/yii2-fontawesome",
+  "description": "FontAwesome 4 for Yii2",
   "keywords": [
     "yii",
     "font",
@@ -11,25 +11,20 @@
   "type": "yii2-extension",
   "license": "MIT",
   "minimum-stability": "stable",
-  "support": {
-    "issues": "https://github.com/rmrevin/yii2-fontawesome/issues",
-    "source": "https://github.com/rmrevin/yii2-fontawesome"
-  },
   "authors": [
     {
-      "name": "Revin Roman",
-      "email": "roman@rmrevin.com",
-      "homepage": "https://rmrevin.com/"
+      "name": "White Miku",
+      "email": "mi@white-miku.me"
     }
   ],
   "require": {
     "php": ">=5.4.0",
-    "yiisoft/yii2": "2.0.*",
-    "fortawesome/font-awesome": "~4.7"
+    "yiisoft/yii2": "*",
+    "bower-asset/fontawesome": "~4.7"
   },
   "autoload": {
     "psr-4": {
-      "rmrevin\\yii\\fontawesome\\": ""
+      "whitemiku\\fontawesome\\": ""
     }
   },
   "extra": {

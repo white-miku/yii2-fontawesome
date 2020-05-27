@@ -5,15 +5,15 @@
  * @link https://rmrevin.com
  */
 
-namespace rmrevin\yii\fontawesome\component;
+namespace whitemiku\fontawesome\component;
 
-use rmrevin\yii\fontawesome\FA;
+use whitemiku\fontawesome\FA;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 
 /**
  * Class UnorderedList
- * @package rmrevin\yii\fontawesome\component
+ * @package whitemiku\fontawesome\component
  */
 class UnorderedList
 {
