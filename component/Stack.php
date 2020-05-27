@@ -5,15 +5,15 @@
  * @link https://rmrevin.ru
  */
 
-namespace rmrevin\yii\fontawesome\component;
+namespace whitemiku\fontawesome\component;
 
-use rmrevin\yii\fontawesome\FA;
+use whitemiku\fontawesome\FA;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 
 /**
  * Class Stack
- * @package rmrevin\yii\fontawesome\component
+ * @package whitemiku\fontawesome\component
  */
 class Stack
 {

@@ -5,7 +5,7 @@
  * @link https://rmrevin.ru
  */
 
-namespace rmrevin\yii\fontawesome;
+namespace whitemiku\fontawesome;
 
 /**
  * Class AssetBundle
@@ -17,7 +17,7 @@ class AssetBundle extends \yii\web\AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@vendor/fortawesome/font-awesome';
+    public $sourcePath = '@bower/fontawesome';
 
     /**
      * @inherit

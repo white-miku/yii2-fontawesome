@@ -5,15 +5,15 @@
  * @link https://rmrevin.ru
  */
 
-namespace rmrevin\yii\fontawesome\component;
+namespace whitemiku\fontawesome\component;
 
-use rmrevin\yii\fontawesome\FA;
+use whitemiku\fontawesome\FA;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 
 /**
  * Class Icon
- * @package rmrevin\yii\fontawesome\component
+ * @package whitemiku\fontawesome\component
  */
 class Icon
 {
@@ -200,7 +200,7 @@ class Icon
      * @param string $class
      * @param bool $condition
      * @param string|bool $throw
-     * @return \rmrevin\yii\fontawesome\component\Icon
+     * @return \whitemiku\fontawesome\component\Icon
      * @throws \yii\base\InvalidConfigException
      * @codeCoverageIgnore
      */
